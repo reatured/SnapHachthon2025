@@ -1,2 +1,0 @@
-# SnapHachthon2025
-
