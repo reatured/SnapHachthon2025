@@ -1,8 +1,12 @@
 CollapsedEntities:
   type: stringset
   value:
-    size: 14
+    size: 19
     values:
+      - Base.png
+      - MaterialParams.png
+      - Normal.png
+      - PBR.mat
       - Scene.scene
       - SpectaclesSyncKit/Components
       - SpectaclesSyncKit/Core
@@ -17,4 +21,5 @@ CollapsedEntities:
       - TicTacToe/Meshes
       - TicTacToe/Prefabs
       - TicTacToe/Typescript
+      - pbr.ss_graph
   options: 4
